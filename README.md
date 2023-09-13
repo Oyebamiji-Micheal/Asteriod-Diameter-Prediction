@@ -18,7 +18,7 @@ You can view the live demo <a href="https://oyebamiji-micheal-asteroid-diameter-
 - [Overview](#overview)
 - [Objective](#objective)
 - [Data](#data)
-- [Insights from EDA](#insights)
+- [Insights from EDA](#eda)
 - [Models and Evaluation Metrics](#model)
 - [References](#references)
 
