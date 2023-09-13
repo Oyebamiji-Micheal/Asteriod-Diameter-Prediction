@@ -11,7 +11,7 @@
 
 You can view the live demo <a href="https://oyebamiji-micheal-asteroid-diameter-prediction-web-app.streamlit.app/">here.</a>
 
-<img src="images/dataset-cover.jpeg" width="800" height="400">
+<img src="images/web_cover.jpeg" width="800" height="400">
 
 <h2>Table of Contents</h2>
 
